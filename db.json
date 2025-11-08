@@ -1,5 +1,11 @@
 {
     "users": [
-
+        {
+            "id": 3,
+            "name": "Sasha",
+            "surname": "Grigorenko",
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE4H1drNdwqxZhbVkHh2kV2NfGNooY79iZWg&s",
+            "balance": 99999999999999
+        }
     ]
 }
