@@ -52,6 +52,42 @@
         "name":"rtx6090prosuper",
         "price": 3500000,
         "kilkist": 19
+        },
+        {
+        "id":1,
+        "name":"kartoplya",
+        "price":45,
+        "kilkist":25 
+        },
+        {
+        "id":21,
+        "name":"kapusta",
+        "price":55,
+        "kilkist":100 
+        },
+        {
+        "id":22,
+        "name":"palanitsa",
+        "price":34,
+        "kilkist":20 
+        },
+        {
+        "id":23,
+        "name":"pen",
+        "price":12,
+        "kilkist":1000 
+        },
+        {
+        "id":24,
+        "name":"sosiska",
+        "price":165,
+        "kilkist":10 
+        },
+        {
+        "id":25,
+        "name":"gambergen",
+        "price":75,
+        "kilkist":75
         }
     ]
 }
