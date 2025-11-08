@@ -1,5 +1,11 @@
 {
     "users": [
-
+        {
+        "id": 1,
+        "name": "ZoIman",
+        "surname": "Mishovich",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUOyFMLj67gVa2lzbe7qQPyGm73RGEAp_S3w&s",
+        "balance": 1500
+    }
     ]
 }
