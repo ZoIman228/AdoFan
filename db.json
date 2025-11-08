@@ -23,6 +23,12 @@
         } 
     ],
     "product":[
+        {
+        "id":1,
+        "name":"kartoplya",
+        "price":45,
+        "kilkist":25 
+        }
         
     ]
 }
