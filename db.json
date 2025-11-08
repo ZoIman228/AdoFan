@@ -24,11 +24,34 @@
     ],
     "product":[
         {
-        "id":1,
-        "name":"kartoplya",
-        "price":45,
-        "kilkist":25 
+        "id": 15,
+        "name":"steamdeck2",
+        "price": 20000,
+        "kilkist": 30
+        },
+        {
+        "id": 16,
+        "name":"rtx6060prosuper",
+        "price": 2000000,
+        "kilkist": 40
+        },
+        {
+        "id": 17,
+        "name":"rtx6070prosuper",
+        "price": 2500000,
+        "kilkist": 23
+        },
+        {
+        "id": 18,
+        "name":"rtx6080prosuper",
+        "price": 3000000,
+        "kilkist": 25
+        },
+        {
+        "id": 19,
+        "name":"rtx6090prosuper",
+        "price": 3500000,
+        "kilkist": 19
         }
-        
     ]
 }
