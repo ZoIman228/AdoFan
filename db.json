@@ -20,7 +20,14 @@
             "surname":"Tiahai",
             "photo_url":"https://avatars.githubusercontent.com/u/172890582?v=4",
             "balance":2000
-        } 
+        },
+                {
+      "id": 2,
+      "name": "Sasha",
+      "surname": "Dmytrochenko",
+      "photo_url": "https://wallpapers-clan.com/wp-content/uploads/2022/07/ken-kaneki-3.jpg",
+      "balance": 1
+    }
     ],
     "product":[
         {
