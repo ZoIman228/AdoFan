@@ -30,96 +30,120 @@
     }
     ],
     "product":[
-        {
+      {
         "id": 15,
-        "name":"steamdeck2",
+        "name": "steamdeck2",
         "price": 20000,
         "kilkist": 30
-        },
-        {
+      },
+      {
         "id": 16,
-        "name":"rtx6060prosuper",
+        "name": "rtx6060prosuper",
         "price": 2000000,
         "kilkist": 40
-        },
-        {
+      },
+      {
         "id": 17,
-        "name":"rtx6070prosuper",
+        "name": "rtx6070prosuper",
         "price": 2500000,
         "kilkist": 23
-        },
-        {
+      },
+      {
         "id": 18,
-        "name":"rtx6080prosuper",
+        "name": "rtx6080prosuper",
         "price": 3000000,
         "kilkist": 25
-        },
-        {
+      },
+      {
         "id": 19,
-        "name":"rtx6090prosuper",
+        "name": "rtx6090prosuper",
         "price": 3500000,
         "kilkist": 19
-        },
-        {
-        "id":1,
-        "name":"kartoplya",
-        "price":45,
-        "kilkist":25 
-        },
-        
-        {
-        "id":2,
-        "name":"Ado's album",
-        "price":500,
-        "kilkist":100 
-        },
-        {
-        "id":3,
-        "name":"Ado",
-        "price":10000000000000,
-        "kilkist":1 
-        },
-        {
-        "id":4,
-        "name":"Vinil Ado",
-        "price":1000,
-        "kilkist":20 
-        },
-        {
-        "id":5,
-        "name":"Plush Abo",
-        "price":3000,
-        "kilkist":100 
-        },
-        {
-        "id":21,
-        "name":"kapusta",
-        "price":55,
-        "kilkist":100 
-        },
-        {
-        "id":22,
-        "name":"palanitsa",
-        "price":34,
-        "kilkist":20 
-        },
-        {
-        "id":23,
-        "name":"pen",
-        "price":12,
-        "kilkist":1000 
-        },
-        {
-        "id":24,
-        "name":"sosiska",
-        "price":165,
-        "kilkist":10 
-        },
-        {
-        "id":25,
-        "name":"gambergen",
-        "price":75,
-        "kilkist":75
-        }
+      },
+      {
+        "id": 1,
+        "name": "kartoplya",
+        "price": 45,
+        "kilkist": 25
+      },
+
+      {
+        "id": 2,
+        "name": "Ado's album",
+        "price": 500,
+        "kilkist": 100
+      },
+      {
+        "id": 3,
+        "name": "Ado",
+        "price": 10000000000000,
+        "kilkist": 1
+      },
+      {
+        "id": 4,
+        "name": "Vinil Ado",
+        "price": 1000,
+        "kilkist": 20
+      },
+      {
+        "id": 5,
+        "name": "Plush Abo",
+        "price": 3000,
+        "kilkist": 100
+      },
+      {
+        "id": 21,
+        "name": "kapusta",
+        "price": 55,
+        "kilkist": 100
+      },
+      {
+        "id": 22,
+        "name": "palanitsa",
+        "price": 34,
+        "kilkist": 20
+      },
+      {
+        "id": 23,
+        "name": "pen",
+        "price": 12,
+        "kilkist": 1000
+      },
+      {
+        "id": 24,
+        "name": "sosiska",
+        "price": 165,
+        "kilkist": 10
+      },
+      {
+        "id": 25,
+        "name": "gambergen",
+        "price": 75,
+        "kilkist": 75
+      },
+      {
+        "id": 10,
+        "name": "shekeli",
+        "price": 1,
+        "kilkist": 1488
+      },
+      {
+        "id": 11,
+        "name": "evrey",
+        "price": 911,
+        "kilkist": 141
+      },
+      {
+        "id": 12,
+        "name": "Gudolf Aitler",
+        "price": 1488,
+        "kilkist": 1488
+      },
+      {
+        "id": 13,
+        "name": "Uman",
+        "price": 911,
+        "kilkist": 1
+      }s
     ]
 }
